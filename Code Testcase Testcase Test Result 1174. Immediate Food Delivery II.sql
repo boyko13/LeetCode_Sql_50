@@ -53,7 +53,7 @@ Hence, half the customers have immediate first orders.
 
 Soulution 
 
-%SQL
+
 
 with tempT AS
  (Select *,
