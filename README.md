@@ -15,7 +15,7 @@ Because data is everywhere, and being able to actually *talk* to a database is a
 
 ## 📈 My Progress
 
-| Difficulty | Solved |
+| Category | Solved |
 |------------|--------|
 |   Select  | 0      |
 |   Basic Joins  | 0      |
