@@ -9,13 +9,16 @@ CATEGORIES = [
     "Subqueries",
     "Advanced_String_Functions_Regex_Clause",
 ]
-def createFolder(name):
-     os.mkdir(name)
+def createFolderFile(name):
+    os.mkdir(name)
+    with open(f"{name}/.gitkeep", "w") as g:
+        g.write("plik pusty aby git zostawił pusty folder")
+    
     
     
 def count_sql_files(folder):
     if not os.path.isdir(folder):
-        createFolder(folder)
+        createFolderFile(folder)
         
     return sum(1 for f in os.listdir(folder) if f.endswith(".sql"))
 def build_table():
