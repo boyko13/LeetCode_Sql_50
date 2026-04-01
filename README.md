@@ -21,10 +21,10 @@ Because data is everywhere, and being able to actually *talk* to a database is a
 | Basic Joins | 4 |
 | Basic Aggregate Functions | 2 |
 | Sorting and Grouping | 7 |
-| Advanced Select and Joins | 3 |
+| Advanced Select and Joins | 4 |
 | Subqueries | 0 |
 | Advanced_String_Functions_Regex_Clause | 0 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 > *Numbers updated as I go. Watch this space.*
 
