@@ -18,13 +18,13 @@ Because data is everywhere, and being able to actually *talk* to a database is a
 | Category | Solved |
 |----------|--------|
 | Select | 5 |
-| Basic Joins | 3 |
+| Basic Joins | 4 |
 | Basic Aggregate Functions | 2 |
 | Sorting and Grouping | 7 |
 | Advanced Select and Joins | 3 |
 | Subqueries | 0 |
 | Advanced_String_Functions_Regex_Clause | 0 |
-| **Total** | **20** |
+| **Total** | **21** |
 
 > *Numbers updated as I go. Watch this space.*
 
