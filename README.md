@@ -19,12 +19,12 @@ Because data is everywhere, and being able to actually *talk* to a database is a
 |----------|--------|
 | Select | 5 |
 | Basic Joins | 4 |
-| Basic Aggregate Functions | 3 |
+| Basic Aggregate Functions | 4 |
 | Sorting and Grouping | 7 |
 | Advanced Select and Joins | 4 |
 | Subqueries | 0 |
 | Advanced_String_Functions_Regex_Clause | 0 |
-| **Total** | **23** |
+| **Total** | **24** |
 
 > *Numbers updated as I go. Watch this space.*
 
